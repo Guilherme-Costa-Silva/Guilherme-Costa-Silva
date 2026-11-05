@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Guilherme-Costa-Silva/Guilherme-Costa-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Me chamo Guilherme
 
-Here are some ideas to get you started:
+## Cursando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Instituição de ensino:** UNIP
+- **Curso:** Sistema de Informação
+- **Nível da graduação:** Bacharelado (4 anos)
+- **Período atual:** 2 semestre
+
+## Áreas e estudo interesse:
+
+- Web Development
+- Data Science
+- Data Engineering
